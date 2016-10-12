@@ -1,0 +1,30 @@
+h1{
+    position: relative;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 50px;
+    font-family: 'Rubik', sans-serif;    
+}
+
+
+div .inline {
+    background-color: green;
+    height: 25px;
+    width: 25px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.row {
+    font-size: 0;
+}
+
+div .highlighted{
+    background-color: red;
+}
+
+.main-body{
+    position: relative;
+    text-align: center;
+}
+
